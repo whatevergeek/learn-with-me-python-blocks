@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7dd3e3ee-1d94-4533-8f5f-9ab298d321d8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>block01\exercise04.py</StartupFile>
+    <StartupFile>block01\exercise10.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -39,6 +39,24 @@
     <Compile Include="block01\exercise02.py" />
     <Compile Include="block01\exercise03.py" />
     <Compile Include="block01\exercise04.py" />
+    <Compile Include="block01\exercise05.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="block01\exercise06.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="block01\exercise07.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="block01\exercise08.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="block01\exercise09.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="block01\exercise10.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="{2af0f10d-7135-4994-9156-5d01c9c11b7e}\2.7" />
